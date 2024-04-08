@@ -1,5 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=✨Chaehyeon%20Song's%20Github✨&fontSize=50&fontColor=000000)
 
+[![Homepage Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://chaehyeonsong.github.io/)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/chaehyeonsong)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:chaehyeon@snu.ac.kr)
+
+I'm a graduated student interested in 3D geometry, Visual perception, and SLAM.
+To get personal info, plz visit my <a href="https://chaehyeonsong.github.io/"> homepage</a>!
 <!--
 **chaehyeonsong/chaehyeonsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
