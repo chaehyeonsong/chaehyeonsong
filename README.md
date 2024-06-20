@@ -6,7 +6,7 @@
 #### To get personal info, plz visit my <a href="https://chaehyeonsong.github.io/"> homepage</a>!
 
 ### News
-- <a href="https://github.com/chaehyeonsong/discocal"> Discocal</a> is accepted to CVPR24 as a hightlight poster!
+- <a href="https://github.com/chaehyeonsong/discocal"> Discocal</a> is accepted to CVPR24 as a hightlight paper!
 
 #### Skills
 <img alt = "C++" height="20" src="https://img.shields.io/badge/C++-AA154C.svg?style=for-the-badge&logo=C++&logoColor=white"> <img alt = "3.1 Python" height="20" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"> <img alt = "sql" height="20" src="https://img.shields.io/badge/MySQL-C75311.svg?style=for-the-badge&logo=MySQL&logoColor=white"> <img alt = "ros" height="20" src="https://img.shields.io/badge/Ros-494848.svg?style=for-the-badge&logo=C++&logoColor=white"> <img alt = "latex" height="20" src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white">
